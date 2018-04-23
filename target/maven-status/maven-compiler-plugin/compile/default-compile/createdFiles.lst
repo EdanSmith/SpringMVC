@@ -1,0 +1,10 @@
+br\com\models\Preco.class
+br\com\models\TipoPreco.class
+br\com\conf\AppWebConfiguration.class
+br\com\controllers\ProdutosController.class
+br\com\conf\JPAConfiguration.class
+br\com\daos\ProdutoDAO.class
+br\com\conf\ServletSpringMVC.class
+br\com\validation\ProdutoValidation.class
+br\com\models\Produto.class
+br\com\controllers\HomeController.class
